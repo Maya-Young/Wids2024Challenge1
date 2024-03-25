@@ -1,0 +1,1 @@
+Women in Data Science (WiDS) Worldwide is on a mission to increase participation of women in data science to benefit societies worldwide. Our challenge: You will be asked to predict if the patients received metastatic cancer diagnosis within 90 days of screening.
